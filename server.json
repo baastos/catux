@@ -1,0 +1,33 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "price": 950.00,
+      "name": "cat 1"
+    },
+    {
+      "id": 2,
+      "price": 850.00,
+      "name": "cat 2"
+    },
+    {
+      "id": 3,
+      "price": 750.00,
+      "name": "cat 3"
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "quantity": 1
+    }
+  ]
+}
